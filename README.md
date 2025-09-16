@@ -30,10 +30,10 @@ A mobile application that connects clients with handymen to complete house-relat
 
 ---
 
-## 🔒 Private Projects
-- **Slamtk App** – Health-related mobile application *(Private repository)*  
-- **Double Marketing App** – Marketing & business management solution *(Private repository)*  
+🔒 Private Projects (Bright Code Company – Training)
+Slamtk App – Health-related mobile application (Private repository)
 
+Double Marketing App – Marketing & business management solution (Private repository)
 ---
 
 ## 🌟 Public Projects
