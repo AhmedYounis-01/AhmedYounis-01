@@ -1,62 +1,126 @@
-# 👋 Hi, I'm Ahmed Younis  
+👋 Hi, I'm Ahmed Younis
 
-🚀 Mobile App Developer | Flutter Developer  
+🚀 Mobile App Developer | Flutter Developer
 
----
+🔹 About Me
 
-## 🔹 About Me
-- 💻 Passionate about building cross-platform mobile apps using **Flutter & Dart**.  
-- 🏗 Skilled in **MVVM architecture** to write clean, testable, and maintainable code.  
-- 🌱 Experienced in API integration, Firebase, SQLite, and Bloc/Cubit state management.  
-- 🎯 Goal: Build impactful and scalable applications that solve real-world problems.  
+💻 Passionate about building high-quality cross-platform mobile applications using Flutter & Dart.
 
----
+🏗 Strong experience with MVVM architecture for clean, scalable, and maintainable code.
 
-## 🎓 Graduation Project: Shatably App
-A mobile application that connects clients with handymen to complete house-related tasks.  
+🌱 Skilled in API integration, Firebase, SQLite, and Bloc/Cubit state management.
 
-### 🔹 Key Features
-- 🔑 **User Authentication**: Login, registration, password reset, and location-based access.  
-- 🏗 **Clean Architecture**: Implemented using the **MVVM pattern** for maintainable and scalable code.  
-- ⚡ **State Management**: Used **Cubit** for efficient state handling and responsive UI.  
-- 🌐 **API Integration**: Integrated RESTful APIs with **Dio** for smooth backend communication.  
-- 💳 **Secure Payments**: Enabled payment processing with **Stripe integration**.  
-- 🛒 **E-Commerce Module**: Product browsing, cart management, and a *"Buy Later"* feature.  
-- 🤖 **AI-Powered Tools**:  
-  - **AI Chat Assistant**: Provides interior design advice through interactive conversation.  
-  - **AI Image Generator**: Creates personalized design inspirations based on user preferences.  
+🎯 Goal-driven developer focused on creating impactful apps that solve real-world problems.
 
-> 🔒 The full code is private, but features and demo can be shared during interviews.
+🎓 Graduation Project: Shatably App
 
----
+A mobile application that connects clients with skilled handymen to complete house-related tasks efficiently.
 
-🔒 Private Projects (Bright Code Company – Training)
-Slamtk App – Health-related mobile application (Private repository)
+🔹 Key Features
 
-Double Marketing App – Marketing & business management solution (Private repository)
----
+🔑 User Authentication
+Login, registration, password reset, and location-based access.
 
-## 🌟 Public Projects
-Here are some of my featured public projects:  
+🏗 Clean Architecture
+Built using MVVM pattern to ensure scalability and maintainability.
 
-- 📚 [Bookly App](https://github.com/AhmedYounis-01/bookly_app) – Books browsing app using API + Bloc + MMVM
-- 🤝 [Social App](https://github.com/AhmedYounis-01/social_app) – Social media Flutter project  using API + Bloc + FireBase
-- 🛒 [Online Shop](https://github.com/AhmedYounis-01/online-shop) – E-commerce Flutter app using API + Bloc
-- ✅ [Task Manager](https://github.com/AhmedYounis-01/task-manager) – Manage tasks with SQLite & Bloc  
-- 📰 [Latest News](https://github.com/AhmedYounis-01/latest-news) – News app using API + Bloc  
-- 👾 [Rick and Morty Characters](https://github.com/AhmedYounis-01/rick-and-morty-characters) – Character browser app using API + Bloc  
+⚡ State Management
+Implemented Cubit for smooth state handling and responsive UI.
 
+🌐 API Integration
+Connected RESTful APIs using Dio for reliable backend communication.
 
----
+💳 Secure Payments
+Integrated Stripe for safe and seamless payment processing.
 
-## 🛠 Tech Stack
-- **Languages:** Dart, Kotlin, Java  
-- **Frameworks:** Flutter  
-- **Databases:** SQLite, Firebase  
-- **Tools:** Git, GitHub, Postman, VS Code, Android Studio  
+🛒 E-Commerce Module
+Product browsing, cart management, and Buy Later functionality.
 
----
+🤖 AI-Powered Features
 
-## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/Ahmed-Younis01](https://linkedin.com/in/ِAhmed-Younis01/)
-- 📧 Email: ahmedfady426@gmail.com  
+AI Chat Assistant for interior design recommendations.
+
+AI Image Generator to create personalized design inspirations.
+
+🔒 Full source code is private, but demos and feature walkthroughs are available during interviews.
+
+🔒 Private & Company Projects (Bright Code Company)
+🏥 Slamtk App
+
+A health-focused mobile application designed to improve user wellness and medical service accessibility.
+
+Highlights:
+
+Secure authentication and user profiles
+
+Health-related features and data handling
+
+Clean architecture with scalable Flutter structure
+
+Optimized UI/UX for real-world medical use cases
+
+🔗 Showcase Repository:
+👉 https://github.com/AhmedYounis-01/slamtk-showcase
+
+📊 Double Marketing App
+
+A comprehensive marketing & business management mobile solution.
+
+Highlights:
+
+Business and marketing workflow management
+
+Data-driven features for tracking performance
+
+Clean MVVM-based Flutter architecture
+
+Robust and scalable app structure
+
+🔗 Showcase Repository:
+👉 https://github.com/AhmedYounis-01/double-marketing-showcase
+
+🌟 Public Projects
+
+Here are some of my featured public projects:
+
+📚 Bookly App
+Books browsing app using API + Bloc + MVVM
+🔗 https://github.com/AhmedYounis-01/bookly_app
+
+🤝 Social App
+Social media Flutter app using API + Bloc + Firebase
+🔗 https://github.com/AhmedYounis-01/social_app
+
+🛒 Online Shop
+E-commerce Flutter app using API + Bloc
+🔗 https://github.com/AhmedYounis-01/online-shop
+
+✅ Task Manager
+Task management app using SQLite & Bloc
+🔗 https://github.com/AhmedYounis-01/task-manager
+
+📰 Latest News
+News app using API + Bloc
+🔗 https://github.com/AhmedYounis-01/latest-news
+
+👾 Rick and Morty Characters
+Character browser app using API + Bloc
+🔗 https://github.com/AhmedYounis-01/rick-and-morty-characters
+
+🛠 Tech Stack
+
+Languages: Dart, Kotlin, Java
+
+Frameworks: Flutter
+
+Databases: SQLite, Firebase
+
+Tools: Git, GitHub, Postman, VS Code, Android Studio
+
+📫 Connect with Me
+
+💼 LinkedIn:
+https://linkedin.com/in/Ahmed-Younis01
+
+📧 Email:
+ahmedyoounis426@gmail.com
