@@ -54,12 +54,6 @@
 
 ---
 
-## 📊 GitHub Activity
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedYounis-01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYounis-01&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmed-Younis01/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedyoounis426@gmail.com)
