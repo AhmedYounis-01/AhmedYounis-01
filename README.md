@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 * 📱 Flutter Developer with 1+ year of experience
-* 🏗️ Strong in MVVM + Bloc/Cubit
+* 🏗️ Strong in Clean Architecture + MVVM + Bloc/Cubit
 * 🔗 API Integration (REST, Dio)
 * 🔥 Firebase & Supabase (Auth, Realtime DB)
 * ✨ Focused on clean UI and smooth animations
@@ -58,14 +58,6 @@ Firebase backend with real-time features
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,androidstudio,figma" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedYounis-01&show_icons=true&theme=radical)](https://github.com/AhmedYounis-01)
 </p>
 
 ---
