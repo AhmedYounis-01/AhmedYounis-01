@@ -65,7 +65,7 @@ Firebase backend with real-time features
 ### 📊 GitHub Stats
 
 <p align="center">
-  GitHub statistics are currently not available as images, but you can view them directly on <a href="https://github.com/Ahmed-Younis01">my GitHub profile</a>.
+  [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedYounis-01&show_icons=true&theme=radical)](https://github.com/AhmedYounis-01)
 </p>
 
 ---
