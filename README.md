@@ -54,25 +54,18 @@ Firebase backend with real-time features
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Languages and Tools
 
-Flutter • Dart • Firebase • Supabase • REST APIs • Git
-✨ Smooth UI & Animations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,androidstudio,figma" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Younis01&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed Younis GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Younis01&layout=compact&theme=tokyonight&hide_border=true" alt="Ahmed Younis Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Younis01&theme=tokyonight&hide_border=true" alt="Ahmed Younis GitHub Streak" />
+  GitHub statistics are currently not available as images, but you can view them directly on <a href="https://github.com/Ahmed-Younis01">my GitHub profile</a>.
 </p>
 
 ---
