@@ -1,74 +1,12 @@
-# 👋 Hi, I'm Ahmed Younis  
-### 🚀 Flutter Developer | Building Scalable Mobile Apps
+<h1 align="center">Hi 👋, I'm Ahmed Younis</h1>
+<h3 align="center">Flutter Developer building scalable real-world mobile applications</h3>
 
----
+- 🔭 I’m currently working on Scalable Flutter apps with Supabase/Firebase backend integration [Shatably App](https://github.com/AhmedYounis-01/shatably-showcase)
 
-## 🧠 About Me
-💡 I build real-world mobile applications with clean architecture and scalable code.  
-⚡ Focused on performance, maintainability, and production-ready solutions.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 📱 1+ year experience in Flutter & Dart  
-- 🏗️ Strong in MVVM + Bloc/Cubit  
-- 🔗 API Integration (Dio, REST)  
-- 🔥 Firebase & Supabase (Auth, Realtime DB)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
----
-
-## 🚀 What I’ve Built
-
-### 🏆 Shatably App (Graduation Project)
-Platform connecting users with service providers.
-
-- 🧠 Architecture: MVVM + Cubit  
-- 💳 Payments: Stripe Integration  
-- 🤖 AI: Chat Assistant + Image Generator  
-- 📈 Result: Scalable system handling multiple modules (auth, services, payments)
-
----
-
-## 💼 Experience
-
-### 🏢 Bright Code Company
-- Developed **health-tech app (Slamtk)** improving user interaction  
-- Built **marketing system** for business analytics  
-- Worked on **real production apps**, not demos  
-
----
-
-## 🌟 Featured Projects
-
-### 🧺 Our Basket App
-- Supabase Auth + Realtime DB  
-- Secure login system + live updates  
-
-### 📚 Bookly App
-- Clean API handling  
-- Advanced UI implementation  
-
-### 🤝 Social App
-- Firebase backend  
-- Real-time chat & feeds  
-
----
-
-## 🛠 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
----
-
-## 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedYounis-01&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYounis-01&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact Me
-
-- 💼 LinkedIn: https://linkedin.com/in/Ahmed-Younis01/
-- 📧 Email: ahmedyoounis426@gmail.com
